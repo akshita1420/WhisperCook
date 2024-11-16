@@ -28,10 +28,6 @@ Here are some examples of voice commands supported by WhisperCook:
 - "Repeat Step" – Repeats the current step.
 - "Stop" – Stops the text-to-speech feature.
 
-## 📱 Screenshots
-
-(Add screenshots or GIFs here to showcase the app in action)
-
 ## 🔧 Setup and Installation
 
 1. Clone the repository:
